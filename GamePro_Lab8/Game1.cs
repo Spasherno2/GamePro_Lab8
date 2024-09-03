@@ -8,7 +8,7 @@ namespace GamePro_Lab8
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
+        int num = 5;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
