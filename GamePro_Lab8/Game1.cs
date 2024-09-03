@@ -11,6 +11,7 @@ namespace GamePro_Lab8
         int num = 5;
         int num2 = 4;
         bool hit = false;
+        bool playerjump = false;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
