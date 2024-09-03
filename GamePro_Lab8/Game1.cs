@@ -10,6 +10,7 @@ namespace GamePro_Lab8
         private SpriteBatch _spriteBatch;
         int num = 5;
         int num2 = 4;
+        bool hit = false;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
